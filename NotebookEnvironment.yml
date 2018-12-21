@@ -15,6 +15,7 @@ dependencies:
   - scipy=1.1
   - seaborn=0.9
   - plotly=3.4.2
+  - pytables=3.4.4
   - pip
   - xlrd
   - cryptography=2.3
