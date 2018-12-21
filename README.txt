@@ -21,7 +21,7 @@ How to run the notebook:
         conda env create -f NotebookEnvironment.yml
         source activate NotebookEnvironment
 5. Open the notebook using the command 
-   		jupyter notebook
+   	jupyter notebook
 6. To use the notebook, simply run all commands in the order they appear.
 
 For questions, you can reach me at 'alexander.backis@esss.se'. Enjoy the 
